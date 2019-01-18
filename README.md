@@ -1,5 +1,5 @@
 # Led Ring v2
-This project is about led ring inpired by [this tutorial](https://learn.adafruit.com/3d-printed-camera-led-ring/overview) with some improvements.
+This project is about led ring inspired by [this tutorial](https://learn.adafruit.com/3d-printed-camera-led-ring/overview) with some improvements.
 
 Instead of trinket 5V - Arduino mini was used.
 Instead of small battery - Powerbank was used.
